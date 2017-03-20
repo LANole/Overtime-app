@@ -5,7 +5,7 @@
 ## Models
 - Post --> date: date rationale: text
 x User --> Devise
-- Administrator -> STI
+x Administrator -> STI
 
 ## Features:
 - Approval Workflow
