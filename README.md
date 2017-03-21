@@ -3,9 +3,9 @@
 ## Key requirement: company needs documentation that salaried employees did or did get overtime each week
 
 ## Models
-- Post --> date: date rationale: text
-x User --> Devise
-x Administrator -> STI
+- x Post --> date: date rationale: text
+- x User --> Devise
+- x Administrator -> STI
 
 ## Features:
 - Approval Workflow
@@ -16,3 +16,6 @@ x Administrator -> STI
 
 ## UI:
 - Bootstrap -> formatting 
+
+## Refactor ToDo's:
+- refactor user association intergration test in post_spec
