@@ -15,7 +15,9 @@
 - Needs to be documented if employee did not log overtime
 
 ## UI:
-- x Bootstrap -> formatting 
+- x Bootstrap -> formatting
+- Font Awesome Icons
+- Updating style for forms 
 
 ## Refactor ToDo's:
 - x Add full_name method for users
